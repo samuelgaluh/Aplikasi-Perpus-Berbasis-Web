@@ -30,3 +30,10 @@ Jalankan aplikasi di server lokal (XAMPP, Laragon, dll.).
 🖼️ Screenshot
 
 ![Preview](assets/perpuswebapp.jpg)
+
+Kontak
+Jika Anda memiliki pertanyaan atau ingin berkolaborasi, silakan hubungi saya melalui:
+
+- Email: [ samuelgaluhdiaspramudyagmail.com ]
+- Instagram: [https://www.instagram.com/ssamga_]
+- GitHub: [github.com/gamuelgaluh]
